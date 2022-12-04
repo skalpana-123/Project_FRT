@@ -28,28 +28,40 @@ This is a web based application developed for health related based website in in
 
 
 
+![Home Page](https://user-images.githubusercontent.com/119287962/205483231-6ddc0ef9-13da-4005-bde8-4eb6d30ac0c4.JPG)
 
 
 ### About Us -
 
-![About Page](https://user-images.githubusercontent.com/119287962/205483045-c43a0e70-6f36-4f40-800d-0f3334ed984a.JPG)
 
+
+
+
+![About Page](https://user-images.githubusercontent.com/119287962/205483217-b707e89f-1c82-46ed-b44f-a01d08000c02.JPG)
 
 ### Services -
 
 
-![Services Page](https://user-images.githubusercontent.com/119287962/205483049-aab7c2e2-5347-48f1-b34c-af4a2f7b4d11.JPG)
+
+
+
+![Services Page](https://user-images.githubusercontent.com/119287962/205483221-16630016-f81d-48f1-9098-1fee9fda1e32.JPG)
 
 ### Contact us -
 
 
-![Contact Page](https://user-images.githubusercontent.com/119287962/205483054-2d316f0d-cbe6-4b87-86c0-8911fedaf0ea.JPG)
+
+
+![Contact Page](https://user-images.githubusercontent.com/119287962/205483224-9ecc5c56-fbfe-40bf-8523-ec4f84c15fab.JPG)
 
 ### health bot
 
 
-![Home Page](https://user-images.githubusercontent.com/119287962/205483061-ac1c31a4-61c1-401d-b193-d1ec1e3888e6.JPG)
 
+
+
+
+![Health Bot](https://user-images.githubusercontent.com/119287962/205483267-f6024073-f9eb-4de1-888d-6b4b3ddc86c4.JPG)
 
 ## Tech Stack 💻
 
