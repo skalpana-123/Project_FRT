@@ -7,7 +7,7 @@ This is a web based application developed for covid preventive related based web
 
 
 **Project Link** - https://polite-wave-0f81dcc00.2.azurestaticapps.net/
-**project demo video link** - https://youtu.be/pgCJL0PwDUk
+**project demo video link** - https://youtu.be/mTVWmp4Q8vg
 
 ## Azure technologies used for Project
 
