@@ -63,6 +63,14 @@ This is a web based application developed for covid preventive related based web
 
 ![Health Bot](https://user-images.githubusercontent.com/119287962/205483267-f6024073-f9eb-4de1-888d-6b4b3ddc86c4.JPG)
 
+
+
+
+
+
+
+![Automation screen](https://user-images.githubusercontent.com/119287962/205484988-2d8a1358-0845-4f91-9048-ae827f735f86.JPG)
+
 ## Tech Stack 💻
 
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
